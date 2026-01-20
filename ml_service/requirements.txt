@@ -1,0 +1,6 @@
+flask==3.0.3
+flask-cors==4.0.1
+pandas==2.2.2
+numpy==2.0.1
+# Prophet is OPTIONAL (the app will fallback if it's not installed)
+# prophet==1.1.5
