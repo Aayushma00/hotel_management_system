@@ -95,11 +95,4 @@ pip install prophet
 
 ---
 
-## 7) What to submit for final year project
-- Source code (this repo)
-- Screenshots of UI pages
-- Database schema (already included in `backend/sql/schema.sql`)
-- ER / Use-case / DFD diagrams (you can draw based on modules)
-- Final report (use your synopsis + screenshots + testing results)
 
-Good luck — run it first, then customize slowly.
